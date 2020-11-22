@@ -73,5 +73,7 @@ img.about-bg{
 .footer{
     color: white;
     margin-top: 60px;
+    margin-bottom: 20px;
+    color: red;
     text-align: center;
 }

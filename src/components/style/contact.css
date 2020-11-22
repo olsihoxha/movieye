@@ -1,0 +1,70 @@
+
+
+.contact-image-left{
+    position: fixed;
+    height: 100%;
+    width: 500px;
+    top:0
+}
+
+.contact-content{
+    margin-left:550px;
+    margin-top:30px;
+    color: white;
+}
+
+.contact-submit{
+    margin-top: 20px;
+    background-color: red;
+    display: flex;
+    height:30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.btn{
+    display: inline;
+    padding: 5px;
+}
+
+.contact-us{
+    height:30px;
+    width: 300px;
+    padding-left: 8px;
+    border:none;
+    background-color: black;
+    color:white;
+    border-bottom: 3px solid white;
+
+}
+.contact-us::placeholder { 
+    color: white;
+    opacity: 1; 
+  }
+
+  .contact-label{
+      margin-top: 50px;
+  }
+
+.contact-title{
+    font-size: 50px;
+  }
+
+  .contact-message{
+      height:120px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .contact-us:focus{
+      border-color: #148F77;
+  }
+
+
+  .submit-contact{
+      height:30px;
+      position: absolute;
+      opacity: 0; 
+      cursor: pointer;
+  }

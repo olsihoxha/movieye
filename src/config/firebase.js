@@ -3,14 +3,14 @@ import firebase from 'firebase';
 
 
 let firebaseConfig = {
-    apiKey: xxxxxxxxxxxx,
-    authDomain: xxxxxxxxxxxx,
-    databaseURL: xxxxxxxxxxx,
-    projectId: xxxxxxxxxxx,
-    storageBucket: xxxxxxxxxxxx,
-    messagingSenderId: xxxxxxxxxxxxx,
-    appId: xxxxxxxxxxxx,
-    measurementId: xxxxxxxxxxxxxx
+    apiKey: "======================",
+    authDomain: "======================",
+    databaseURL: "======================",
+    projectId: "======================",
+    storageBucket: "======================",
+    messagingSenderId: "======================",
+    appId: "======================",
+    measurementId: "======================"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
